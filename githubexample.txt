@@ -1,1 +1,3 @@
 example content
+
+adding my paragraph here, per issue #1
